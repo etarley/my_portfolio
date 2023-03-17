@@ -41,14 +41,12 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className='mt-4 max-w-3xl text-[17px] leading-[30px] text-secondary'
       >
-        Welcome to my portfolio! As a fullstack web developer with experience in
-        React, Typescript, express, node, postgresql, mongodb, tailwindcss,
-        Three.js and javascript, I have a strong foundation in the technologies
-        and frameworks required to build robust and dynamic web applications. My
-        portfolio showcases my ability to build custom web applications tailored
-        to meet the unique needs of clients across various industries. With my
-        expertise in these technologies, I can deliver exceptional user
-        experiences that engage and
+        I am a highly motivated full-stack web developer with a deep passion for
+        creating immersive and dynamic digital experiences. My expertise in
+        modern technologies, including React, TypeScript, Express, Node.js,
+        PostgreSQL, MongoDB, TailwindCSS, Three.js, and JavaScript, enables me
+        to design and develop high-quality, user-centric, and scalable web
+        applications.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
