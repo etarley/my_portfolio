@@ -13,7 +13,7 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
+  expressjs,
   docker,
   meta,
   starbucks,
@@ -23,6 +23,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  nextjs,
+  materialui,
+  postgresql,
 } from '../assets';
 
 export const navLinks = [
@@ -46,7 +49,7 @@ const services = [
     icon: web,
   },
   {
-    title: 'React Native Developer',
+    title: 'Frontend Developer',
     icon: mobile,
   },
   {
@@ -81,8 +84,8 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: 'Redux Toolkit',
-    icon: redux,
+    name: 'Postgres SQL',
+    icon: postgresql,
   },
   {
     name: 'Tailwind CSS',
@@ -105,12 +108,12 @@ const technologies = [
     icon: git,
   },
   {
-    name: 'figma',
-    icon: figma,
+    name: 'nextjs',
+    icon: nextjs,
   },
   {
-    name: 'docker',
-    icon: docker,
+    name: 'materialui',
+    icon: materialui,
   },
 ];
 
